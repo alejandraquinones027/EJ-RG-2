@@ -1,2 +1,2 @@
-# EJ-RG-2
+# EJ-JS-2
 Este es un juego de ejemplo de javaScrip
